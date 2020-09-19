@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Login/label_1.png</file>
+        <file>res/Login/label_2.png</file>
+        <file>res/Login/login_text.png</file>
+        <file>res/Login/login_background.png</file>
+        <file>res/backgrounds/playwindow_final.png</file>
+        <file>res/Login/button_1.png</file>
+        <file>res/Login/signup.png</file>
+        <file>res/Login/button_2.png</file>
+        <file>res/Login/signup2.png</file>
+        <file>res/mainwindow/start1.png</file>
+        <file>res/mainwindow/exit1.png</file>
+        <file>res/mainwindow/mainwindow.png</file>
+        <file>res/gameover/back.png</file>
+        <file>res/gameover/PlantsWon.png</file>
+        <file>res/gameover/ZombiesWon.png</file>
+        <file>userlog.json</file>
+        <file>res/choose/choose.png</file>
+        <file>res/choose/plants_1.png</file>
+        <file>res/choose/plants_2.png</file>
+        <file>res/choose/zombies_1.png</file>
+        <file>res/choose/zombies_2.png</file>
+        <file>res/choose/chosen.png</file>
+        <file>res/choose/unchosen.png</file>
+        <file>res/choose/next.png</file>
+        <file>res/icon.png</file>
+        <file>res/sounds/gamestart.mp3</file>
+        <file>res/sounds/login.mp3</file>
+        <file>res/sounds/mainwindow.MP3</file>
+        <file>res/sounds/button_success.MP3</file>
+        <file>res/sounds/button_wrong.MP3</file>
+        <file>res/sounds/choose_plants_final.mp3</file>
+        <file>res/sounds/choose_zombies.mp3</file>
+        <file>res/sounds/choose_zombies_final.mp3</file>
+        <file>res/sounds/turn_plants.MP3</file>
+        <file>res/sounds/turn_zombies.MP3</file>
+        <file>res/sounds/win_plants.mp3</file>
+        <file>res/sounds/win_zombies.mp3</file>
+        <file>res/sounds/choose_plants.mp3</file>
+        <file>res/backgrounds/playwindow.png</file>
+        <file>res/playwindow/chess1.png</file>
+        <file>res/playwindow/chess1s.png</file>
+        <file>res/playwindow/chess2.png</file>
+        <file>res/playwindow/chess2s.png</file>
+    </qresource>
+</RCC>

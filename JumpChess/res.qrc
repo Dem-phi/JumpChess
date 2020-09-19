@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/background2.png</file>
+        <file>res/chess.png</file>
+        <file>res/chess2.png</file>
+        <file>res/chess2s.png</file>
+        <file>res/chessboard.jpg</file>
+        <file>res/chessico.png</file>
+        <file>res/chesss.png</file>
+        <file>res/exit_power_quit_128px_3661_easyicon.net.png</file>
+        <file>res/Red_Help_Book_256px_1076359_easyicon.net.png</file>
+        <file>res/Start_512px_1186321_easyicon.net.png</file>
+        <file>res/background3.png</file>
+        <file>res/background4.png</file>
+        <file>res/background5.png</file>
+        <file>res/background6.png</file>
+        <file>res/background7.jpg</file>
+        <file>res/background8.jpg</file>
+        <file>res/baseball_people_128px_501868_easyicon.net.png</file>
+        <file>res/ico.png</file>
+        <file>res/ico2.png</file>
+    </qresource>
+</RCC>
