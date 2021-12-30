@@ -1,4 +1,7 @@
 # JumpChess
+2020 暑假
+
+
 完成了一半的跳棋(MyJumpChess) 
 
 坐标系有些问题 
